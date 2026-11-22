@@ -1,6 +1,6 @@
 cask "working" do
-  version "0.2.0"
-  sha256 "c59b643e3af5a5bb2ca24ca72260396968c8096ebae9daf81775ec58eb0a2c51"
+  version "0.3.0"
+  sha256 "385047e753abf09a93ba627052082d228ef069083e3b7c057d3441e714b1255f"
 
   url "https://github.com/felipefdl/working/releases/download/v#{version}/Working_#{version}_universal.dmg"
   name "Working"
